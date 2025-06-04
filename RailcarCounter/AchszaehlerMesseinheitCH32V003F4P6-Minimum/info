@@ -1,0 +1,169 @@
+{
+  "uuid": "d4fa7af7b5fba6a1400d9e39c79c88c6",
+  "path": "Offline/AchszaehlerMesseinheitCH32V003F4P6-Minimum",
+  "name": "AchszaehlerMesseinheitCH32V003F4P6-Minimum",
+  "content": "",
+  "created_at": "2025-05-27 02:10:51",
+  "updated_at": "2025-05-27 02:29:03",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "052c693b802147d3f67d6bf8e1d21fb7",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "951201ef2b8a45558fa35e6b940e3a15": 4,
+        "7d5b466373aa445883ea0f68b9f668bb": 1,
+        "00b374a232484b92a6cb0021ec72f3f4": 1,
+        "0a2278faeaf940e693938d8356cacf56": 2,
+        "01fccdc283e140d285a392f5b09da691": 2,
+        "a0377ba1b8ca46bea0c49375de795ed1": 1,
+        "217c6da634234b9b8570e48fbf62c494": 1,
+        "931b5932997b4a2c8a83163e1c90e327": 3,
+        "15614a47b63d42928084caeab96fdd8d": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "470uF",
+          1,
+          "CAP-TH_BD6.3-P2.50-D1.0-FD",
+          "C1",
+          {
+            "Manufacturer Part": "UKW1A471MED",
+            "Manufacturer": "Nichicon(尼吉康)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C250972"
+          }
+        ],
+        [
+          "CH32V003F4P6",
+          1,
+          "TSSOP-20_L6.5-W4.4-P0.65-LS6.4-BL",
+          "CH32V003",
+          {
+            "Manufacturer Part": "CH32V003F4P6",
+            "Manufacturer": "WCH(南京沁恒)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5187096"
+          }
+        ],
+        [
+          "KH-2.54PH180-1X4P-L11.5",
+          3,
+          "HDR-TH_4P-P2.54-V-M",
+          "H4,H5,PROG",
+          {
+            "Manufacturer Part": "KH-2.54PH180-1X4P-L11.5",
+            "Manufacturer": "kinghelm(金航标)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2905435"
+          }
+        ],
+        [
+          "LM358DR(LX)",
+          1,
+          "SOP-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "OA1",
+          {
+            "Manufacturer Part": "LM358DR(LX)",
+            "Manufacturer": "LX(灵星芯微)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C24833647"
+          }
+        ],
+        [
+          "500kΩ",
+          2,
+          "RES-ADJ-SMD_RM065-V1",
+          "REF1,REF2",
+          {
+            "Manufacturer Part": "RM065-504(500K)",
+            "Manufacturer": "BOCHEN(博晨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5205026"
+          }
+        ],
+        [
+          "1MΩ",
+          2,
+          "R0603",
+          "RF1,RF2",
+          {
+            "Manufacturer Part": "ETCR0603F1M00K9",
+            "Manufacturer": "RESI(开步睿思)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C365401"
+          }
+        ],
+        [
+          "100Ω",
+          2,
+          "R0603",
+          "RIN1,RIN2",
+          {
+            "Manufacturer Part": "CR0603-10W-1000FT",
+            "Manufacturer": "Venkel",
+            "Supplier": "LCSC",
+            "Supplier Part": "C4041881"
+          }
+        ],
+        [
+          "OH49E",
+          4,
+          "OH49E",
+          "S1A,S1B,S2A,S2B",
+          {
+            "Manufacturer Part": "OH49E",
+            "Manufacturer": "OUZHUO",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81386"
+          }
+        ]
+      ],
+      "updateTime": 1748304790,
+      "createTime": 1748135766,
+      "histories": [],
+      "created_at": "2025-05-25 03:16:06",
+      "updated_at": "2025-05-27 02:13:10"
+    },
+    {
+      "uuid": "840433ae2f268e427fe5743bc8ddb73b",
+      "title": "Minimum",
+      "filename": "Minimum.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "89f5280378144b629de4998ef974b6b8": 3,
+        "1a9b494b74c34d3b879eb7f824b3824d": 1,
+        "1fe0adc377c7472ba321d68db1c050fa": 1,
+        "5a02b60496ec4e2ba586bce779888583": 2,
+        "df28bb8920ce4fd2ba680dc6b6fb5655": 4,
+        "398691f1f785460098bbe5ee6590333c": 4,
+        "1586800a83194e228c6527ad76c86945": 1
+      },
+      "BOM": [],
+      "updateTime": 1748305743,
+      "createTime": 1748304584,
+      "histories": [],
+      "created_at": "2025-05-27 02:09:44",
+      "updated_at": "2025-05-27 02:29:03"
+    }
+  ],
+  "sort": [],
+  "title": "AchszaehlerMesseinheitCH32V003F4P6-Minimum",
+  "foldername": "AchszaehlerMesseinheitCH32V003F4P6-Minimum",
+  "schfilename": "AchszaehlerMesseinheitCH32V003F4P6-Minimum.json",
+  "schfilemtime": 1748304790497
+}

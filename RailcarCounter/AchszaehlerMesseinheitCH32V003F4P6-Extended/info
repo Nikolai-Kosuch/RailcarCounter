@@ -1,0 +1,459 @@
+{
+  "uuid": "8a318a5775a0df5b8e8d9e8992dca8c1",
+  "path": "Offline/AchszaehlerMesseinheitCH32V003F4P6",
+  "name": "AchszaehlerMesseinheitCH32V003F4P6",
+  "content": "",
+  "created_at": "2025-05-25 03:16:06",
+  "updated_at": "2025-05-26 17:57:03",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "ed8fbd893f015638196a54de58bcbbe0",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "951201ef2b8a45558fa35e6b940e3a15": 4,
+        "7d5b466373aa445883ea0f68b9f668bb": 1,
+        "838a60ec81b1415786eb286ea66a7274": 2,
+        "00b374a232484b92a6cb0021ec72f3f4": 1,
+        "b59388e3d699499d85976cf30a4ada7a": 2,
+        "588dac9f81df8f83843513972963b454": 1,
+        "370f906c4e5c4dfb95406f10fc7c9a4a": 1,
+        "36641bb2686f42c9afcf9b4b49fdec8e": 7,
+        "0a2278faeaf940e693938d8356cacf56": 9,
+        "15a2ef81ce0f4e3a9429dbb85af06bae": 2,
+        "01fccdc283e140d285a392f5b09da691": 2,
+        "a0377ba1b8ca46bea0c49375de795ed1": 1,
+        "217c6da634234b9b8570e48fbf62c494": 1,
+        "931b5932997b4a2c8a83163e1c90e327": 3,
+        "15614a47b63d42928084caeab96fdd8d": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "AMS1117-3.3",
+          1,
+          "SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR",
+          "AMS1117",
+          {
+            "Manufacturer Part": "AMS1117-3.3",
+            "Manufacturer": "AMS",
+            "Supplier": "LCSC",
+            "Supplier Part": "C6186"
+          }
+        ],
+        [
+          "470uF",
+          1,
+          "CAP-TH_BD6.3-P2.50-D1.0-FD",
+          "C1",
+          {
+            "Manufacturer Part": "UKW1A471MED",
+            "Manufacturer": "Nichicon(尼吉康)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C250972"
+          }
+        ],
+        [
+          "CH32V003F4P6",
+          1,
+          "TSSOP-20_L6.5-W4.4-P0.65-LS6.4-BL",
+          "CH32V003",
+          {
+            "Manufacturer Part": "CH32V003F4P6",
+            "Manufacturer": "WCH(南京沁恒)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5187096"
+          }
+        ],
+        [
+          "KH-2.54PH180-1X4P-L11.5",
+          3,
+          "HDR-TH_4P-P2.54-V-M",
+          "H4,H5,PROG",
+          {
+            "Manufacturer Part": "KH-2.54PH180-1X4P-L11.5",
+            "Manufacturer": "kinghelm(金航标)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2905435"
+          }
+        ],
+        [
+          "MIR60363T-06030IRLED-EVERLIGHT",
+          7,
+          "LED0603-FD",
+          "L1,L2,L3,L4,L5,LED1,LED2",
+          {
+            "Manufacturer Part": "MIR60363T-06030IRLED-everlight",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900135377"
+          }
+        ],
+        [
+          "LM358DR(LX)",
+          1,
+          "SOP-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "OA1",
+          {
+            "Manufacturer Part": "LM358DR(LX)",
+            "Manufacturer": "LX(灵星芯微)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C24833647"
+          }
+        ],
+        [
+          "HX PZ2.54-1X3P ZZ",
+          1,
+          "CONN-TH_HX-PZ2.54-1X3P-ZZ",
+          "PWR",
+          {
+            "Manufacturer Part": "HX PZ2.54-1x3P ZZ",
+            "Manufacturer": "hanxia(韩下)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C32713269"
+          }
+        ],
+        [
+          "100Ω",
+          9,
+          "R0603",
+          "R1,R2,R3,R4,R5,R101,R201,RIN1,RIN2",
+          {
+            "Manufacturer Part": "CR0603-10W-1000FT",
+            "Manufacturer": "Venkel",
+            "Supplier": "LCSC",
+            "Supplier Part": "C4041881"
+          }
+        ],
+        [
+          "4.7kΩ",
+          2,
+          "R0603",
+          "R102,R202",
+          {
+            "Manufacturer Part": "CR0603F4K70P05Z",
+            "Manufacturer": "EVER OHMS(天二科技)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C881083"
+          }
+        ],
+        [
+          "500kΩ",
+          2,
+          "RES-ADJ-SMD_RM065-V1",
+          "REF1,REF2",
+          {
+            "Manufacturer Part": "RM065-504(500K)",
+            "Manufacturer": "BOCHEN(博晨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5205026"
+          }
+        ],
+        [
+          "1MΩ",
+          2,
+          "R0603",
+          "RF1,RF2",
+          {
+            "Manufacturer Part": "ETCR0603F1M00K9",
+            "Manufacturer": "RESI(开步睿思)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C365401"
+          }
+        ],
+        [
+          "OH49E",
+          4,
+          "OH49E",
+          "S1A,S1B,S2A,S2B",
+          {
+            "Manufacturer Part": "OH49E",
+            "Manufacturer": "OUZHUO",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81386"
+          }
+        ],
+        [
+          "2N2222",
+          2,
+          "TO-92-3_L4.5-W3.5-P1.27-L",
+          "T1,T2",
+          {
+            "Manufacturer Part": "2N2222A",
+            "Manufacturer": "HXY MOSFET(华轩阳电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C20616319"
+          }
+        ],
+        [
+          "KH-2.0PH-1X4P-L9.0-WT",
+          2,
+          "CONN-SMD_KH-2.0PH-1X4P-L9.0-WT",
+          "U1,U2",
+          {
+            "Manufacturer Part": "KH-2.0PH-1X4P-L9.0-WT",
+            "Manufacturer": "kinghelm(金航标)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C20610328"
+          }
+        ]
+      ],
+      "updateTime": 1748235454,
+      "createTime": 1748135766,
+      "histories": [],
+      "created_at": "2025-05-25 03:16:06",
+      "updated_at": "2025-05-26 06:57:34"
+    },
+    {
+      "uuid": "16be74841373d3354db751c91e8bc115",
+      "puuid": "8a318a5775a0df5b8e8d9e8992dca8c1",
+      "title": "NEW_PCB",
+      "filename": "NEW_PCB.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "90a5f7fbd9b943d19afd037d3da72c43": 1,
+        "89f5280378144b629de4998ef974b6b8": 3,
+        "1a9b494b74c34d3b879eb7f824b3824d": 1,
+        "b2142ad37752444c81455a204d85065a": 7,
+        "1fe0adc377c7472ba321d68db1c050fa": 1,
+        "5a02b60496ec4e2ba586bce779888583": 2,
+        "df28bb8920ce4fd2ba680dc6b6fb5655": 4,
+        "560158fdc69b488f8a3fe99daed4a070": 2,
+        "bf6aac4851974111bb59a2d4484ef961": 2,
+        "398691f1f785460098bbe5ee6590333c": 13,
+        "02ae667aca734971be8a5f58143dd564": 1,
+        "1586800a83194e228c6527ad76c86945": 1
+      },
+      "BOM": [],
+      "updateTime": 1748275023,
+      "createTime": 1748203750,
+      "histories": [],
+      "created_at": "2025-05-25 22:09:10",
+      "updated_at": "2025-05-26 17:57:03"
+    },
+    {
+      "uuid": "5f939ced8341884e637f703dfa46626f",
+      "puuid": "8a318a5775a0df5b8e8d9e8992dca8c1",
+      "title": "PCB_AchszaehlerMesseinheitCH32V003F4P6",
+      "filename": "PCB_AchszaehlerMesseinheitCH32V003F4P6.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "1586800a83194e228c6527ad76c86945": 1,
+        "02ae667aca734971be8a5f58143dd564": 1,
+        "90a5f7fbd9b943d19afd037d3da72c43": 1,
+        "398691f1f785460098bbe5ee6590333c": 13,
+        "b2142ad37752444c81455a204d85065a": 7,
+        "bf6aac4851974111bb59a2d4484ef961": 2,
+        "560158fdc69b488f8a3fe99daed4a070": 2,
+        "df28bb8920ce4fd2ba680dc6b6fb5655": 4,
+        "5a02b60496ec4e2ba586bce779888583": 2,
+        "89f5280378144b629de4998ef974b6b8": 3,
+        "1fe0adc377c7472ba321d68db1c050fa": 1,
+        "1a9b494b74c34d3b879eb7f824b3824d": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "CH32V003F4P6",
+          1,
+          "TSSOP-20_L6.5-W4.4-P0.65-LS6.4-BL",
+          "CH32V003",
+          {
+            "Manufacturer Part": "CH32V003F4P6",
+            "Manufacturer": "WCH(南京沁恒)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5187096"
+          }
+        ],
+        [
+          "AMS1117-3.3",
+          1,
+          "SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR",
+          "AMS1117",
+          {
+            "Manufacturer Part": "AMS1117-3.3",
+            "Manufacturer": "AMS",
+            "Supplier": "LCSC",
+            "Supplier Part": "C6186"
+          }
+        ],
+        [
+          "HX PZ2.54-1X3P ZZ",
+          1,
+          "CONN-TH_HX-PZ2.54-1X3P-ZZ",
+          "PWR1",
+          {
+            "Manufacturer Part": "HX PZ2.54-1x3P ZZ",
+            "Manufacturer": "hanxia(韩下)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C32713269"
+          }
+        ],
+        [
+          "100Ω",
+          9,
+          "R0603",
+          "RIN2,RIN1,R201,R101,R5,R4,R3,R2,R1",
+          {
+            "Manufacturer Part": "CR0603-10W-1000FT",
+            "Manufacturer": "Venkel",
+            "Supplier": "LCSC",
+            "Supplier Part": "C4041881"
+          }
+        ],
+        [
+          "1MΩ",
+          2,
+          "R0603",
+          "RF2,RF1",
+          {
+            "Manufacturer Part": "ETCR0603F1M00K9",
+            "Manufacturer": "RESI(开步睿思)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C365401"
+          }
+        ],
+        [
+          "4.7kΩ",
+          2,
+          "R0603",
+          "R202,R102",
+          {
+            "Manufacturer Part": "CR0603F4K70P05Z",
+            "Manufacturer": "EVER OHMS(天二科技)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C881083"
+          }
+        ],
+        [
+          "MIR60363T-06030IRLED-EVERLIGHT",
+          7,
+          "LED0603-FD",
+          "L5,L4,L3,L2,L1,LED2,LED1",
+          {
+            "Manufacturer Part": "MIR60363T-06030IRLED-everlight",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900135377"
+          }
+        ],
+        [
+          "KH-2.0PH-1X4P-L9.0-WT",
+          2,
+          "CONN-SMD_KH-2.0PH-1X4P-L9.0-WT",
+          "U2,U1",
+          {
+            "Manufacturer Part": "KH-2.0PH-1X4P-L9.0-WT",
+            "Manufacturer": "kinghelm(金航标)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C20610328"
+          }
+        ],
+        [
+          "2N2222",
+          2,
+          "TO-92-3_L4.5-W3.5-P1.27-L",
+          "T2,T1",
+          {
+            "Manufacturer Part": "2N2222A",
+            "Manufacturer": "HXY MOSFET(华轩阳电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C20616319"
+          }
+        ],
+        [
+          "OH49E",
+          4,
+          "OH49E",
+          "S2B,S2A,S1B,S1A",
+          {
+            "Manufacturer Part": "OH49E",
+            "Manufacturer": "OUZHUO",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81386"
+          }
+        ],
+        [
+          "500kΩ",
+          2,
+          "RES-ADJ-SMD_RM065-V1",
+          "REF2,REF1",
+          {
+            "Manufacturer Part": "RM065-504(500K)",
+            "Manufacturer": "BOCHEN(博晨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5205026"
+          }
+        ],
+        [
+          "KH-2.54PH180-1X4P-L11.5",
+          3,
+          "HDR-TH_4P-P2.54-V-M",
+          "PROG1,H5,H4",
+          {
+            "Manufacturer Part": "KH-2.54PH180-1X4P-L11.5",
+            "Manufacturer": "kinghelm(金航标)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2905435"
+          }
+        ],
+        [
+          "LM358DR(LX)",
+          1,
+          "SOP-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "OA1",
+          {
+            "Manufacturer Part": "LM358DR(LX)",
+            "Manufacturer": "LX(灵星芯微)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C24833647"
+          }
+        ],
+        [
+          "470uF",
+          1,
+          "CAP-TH_BD6.3-P2.50-D1.0-FD",
+          "C1",
+          {
+            "Manufacturer Part": "UKW1A471MED",
+            "Manufacturer": "Nichicon(尼吉康)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C250972"
+          }
+        ]
+      ],
+      "updateTime": 1748211290,
+      "createTime": 1748211290,
+      "histories": [],
+      "created_at": "2025-05-26 00:14:50",
+      "updated_at": "2025-05-26 00:14:50"
+    }
+  ],
+  "sort": [],
+  "title": "AchszaehlerMesseinheitCH32V003F4P6",
+  "foldername": "AchszaehlerMesseinheitCH32V003F4P6",
+  "schfilename": "AchszaehlerMesseinheitCH32V003F4P6.json",
+  "schfilemtime": 1748235454121
+}
